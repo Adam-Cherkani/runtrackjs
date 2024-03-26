@@ -1,0 +1,22 @@
+
+body {
+    background-color: #fff; 
+    color: #000; 
+    font-family: Arial, sans-serif; 
+}
+
+
+.konami-activated {
+    background-color: #0062FF; 
+    color: #ffffff; 
+   
+}
+
+#content {
+    display: none; 
+}
+
+
+.konami-activated #content {
+    display: block;
+}
