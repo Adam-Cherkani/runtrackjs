@@ -1,0 +1,13 @@
+#images-container img {
+    width: 100px; 
+    margin: 5px;
+    cursor: grab;
+}
+
+#images-container img.dragging {
+    opacity: 0.5;
+}
+
+#message {
+    color: green; 
+}
